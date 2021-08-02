@@ -17,3 +17,5 @@
   * [在 GPU 上创建物体检测流程](https://developer.nvidia.com/blog/object-detection-pipeline-gpus/)
   * [使用 SSD 网络进行物体检测](https://docs.nvidia.com/deeplearning/tensorrt/sample-support-guide/index.html#uff_ssd)
   * [Git Sample](https://github.com/NVIDIA/TensorRT/tree/release/6.0/samples/)
+  * [性能测试](https://developer.nvidia.com/deep-learning-performance-training-inference#deeplearningperformance_inference)
+  * [DLA支持的layer](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#dla_layers)
