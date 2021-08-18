@@ -10,7 +10,7 @@
 * ../configure --prefix=/usr/local/systemc-2.3.0
 * make
 * make install
-* perl -MCPAN -e 'install YAML'
+* perl -MCPAN -e 'install "YAML"'
 * apt install libio-tee-perl
 * mv /bin/sh /bin/sh.bak
 * ln -s /bin/bash /bin/sh
